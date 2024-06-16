@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # PDF to Excel Automation
 
 This script automates the process of downloading PDF attachments from Gmail, extracting tables, and saving them to an Excel file.
@@ -66,4 +64,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 =======
 # pdf-to-excel-automation
 This script automates the process of downloading PDF attachments from Gmail, extracting tables, and saving them to an Excel file.
->>>>>>> 2d2311357a7ac0246bb44ea36a6c09c584b6330a
